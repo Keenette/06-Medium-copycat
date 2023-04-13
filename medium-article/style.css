@@ -22,7 +22,8 @@ a {
 
 /* Custom design */
 .banner {
-  background-image: url("https://www.istockphoto.com/fr/search/search-by-asset?affiliateredirect=true&assetid=910449712&assettype=image&utm_campaign=srp_photos_top&utm_content=https%3A%2F%2Funsplash.com%2Ffr%2Fs%2Fphotos%2Flanzarote-surf&utm_medium=affiliate&utm_source=unsplash&utm_term=lanzarote+surf%3A%3A%3A");
+  background-image: url("https://unsplash.com/fr/photos/i5yLC2MzrCE");
+  overflow: hidden;
   background-size: cover;
   color: white;
   padding: 120px 0;
